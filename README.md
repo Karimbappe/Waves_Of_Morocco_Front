@@ -2,6 +2,8 @@ Waves Of Morocco
 
 Waves Of Morocco est une application mobile développée en Swift pour iOS. Elle vous permet de découvrir les meilleurs spots de surf au Maroc.
 
+stack : Swift, SwiftUI, Xcode
+
 Fonctionnalités
 
 - Liste des spots de surf classés par région
@@ -12,7 +14,7 @@ Fonctionnalités
 Installation
 
 1- Téléchargez le projet à partir de GitHub.
-2- Ouvrez le fichier SurfSpots.xcodeproj dans Xcode.
+2- Ouvrez le fichier Waves_Of_Morocco.xcodeproj dans Xcode.
 3- Connectez votre appareil iOS ou utilisez l'émulateur de Xcode pour lancer l'application.
 
 
