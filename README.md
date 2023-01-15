@@ -43,4 +43,4 @@ Nous sommes toujours à la recherche de contributeurs pour améliorer l'applicat
 Remerciements
 
 Nous remercions tous les surfeurs qui ont partagé leurs connaissances sur les spots de surf au Maroc pour rendre cette application possible.
-Ainsi que Ada Tech School de nous avoir lancer sur le projet.
+Ainsi que Ada Tech School de nous avoir lancer sur le projet qui est encore en cours de développement.
