@@ -24,9 +24,7 @@ https://user-images.githubusercontent.com/78148549/214907600-3f239fcd-ee2d-4e43-
 
 
 
-<img width="363" alt="CarousselPage" src="https://user-images.githubusercontent.com/78148549/214903313-8e524e3c-adb8-4c78-8a48-119dca0f517b.png"> <img width="364" alt="SpotPage" src="https://user-images.githubusercontent.com/78148549/214903538-bb96c0bf-abb8-4d4e-96bb-10b58b6b47d4.png"><img width="358" alt="EditProfilePage" src="https://user-images.githubusercontent.com/78148549/214903677-a9503ffe-c93b-4efc-96d1-1fa420e0c53b.png"> <img width="365" alt="ListPage" src="https://user-images.githubusercontent.com/78148549/214903853-9b700b47-c255-4b4c-a168-446a510239c2.png"> <img width="366" alt="ProfilePage" src="https://user-images.githubusercontent.com/78148549/214903961-ac5325c7-c325-465d-ae14-268581e3666c.png">
-
-
+<img width="363" alt="CarousselPage" src="https://user-images.githubusercontent.com/78148549/214903313-8e524e3c-adb8-4c78-8a48-119dca0f517b.png"> <img width="364" alt="SpotPage" src="https://user-images.githubusercontent.com/78148549/214903538-bb96c0bf-abb8-4d4e-96bb-10b58b6b47d4.png"><img width="358" alt="EditProfilePage" src="https://user-images.githubusercontent.com/78148549/214903677-a9503ffe-c93b-4efc-96d1-1fa420e0c53b.png"> <img width="365" alt="ListPage" src="https://user-images.githubusercontent.com/78148549/214903853-9b700b47-c255-4b4c-a168-446a510239c2.png">
 
 
 
