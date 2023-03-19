@@ -11,11 +11,11 @@ Fonctionnalités
 - Carte interactive pour localiser les spots
 - Mise à jour régulière des informations sur les spots
 
-Installation
-
-1- Téléchargez le projet à partir de GitHub.
-2- Ouvrez le fichier Waves_Of_Morocco.xcodeproj dans Xcode.
-3- Connectez votre appareil iOS ou utilisez l'émulateur de Xcode pour lancer l'application.
+Installation<br>
+<br>
+1- Téléchargez le projet à partir de GitHub.<br>
+2- Ouvrez le fichier Waves_Of_Morocco.xcodeproj dans Xcode.<br>
+3- Connectez votre appareil iOS ou utilisez l'émulateur de Xcode pour lancer l'application.<br>
 
 
 
